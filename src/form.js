@@ -7,7 +7,6 @@ function Form (){
     const [lastname,setLastname] = useState('');
     const [email,setEmail] = useState('');
     const [phone,setPhone] = useState('');
-    // const [submit,setSubmit] = useState(false);
     // const [alert,setAlert] = useState(false);
 
     const [FirstNameError , setFirstNameError] = useState(false);
